@@ -1,16 +1,13 @@
-# desafio2
+# Meu App de Ebook
 
-A new Flutter project.
+## Visão Geral
+Este aplicativo de Ebook oferece aos usuários a possibilidade de explorar uma variedade de livros. Ele permite não apenas visualizar uma lista de livros disponíveis, mas também oferece recursos detalhados, como informações sobre capa, título e autor de cada livro.
+## Versão do Flutter
+Este aplicativo foi desenvolvido utilizando Flutter na versão 3.16.1.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Funcionalidades Principais
+- Lista de Livros: Os usuários podem visualizar uma lista de livros disponíveis.
+- Detalhes do Livro: Visualize informações detalhadas sobre cada livro, incluindo capa, título e autor para uma melhor seleção.
+- Adicionar aos Favoritos: Ao tocar na estrela dentro da imagem do livro, é possível adicionar o livro aos favoritos.
+- Acesso Rápido aos Favoritos: Uma aba dedicada na interface permite acessar rapidamente os livros marcados como favoritos, facilitando a leitura preferida dos usuários.
+- acesso Rápido as listas de livros: Uma aba dedicada na interface para acesso rápido da lista de livros.
